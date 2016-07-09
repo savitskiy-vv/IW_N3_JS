@@ -12,7 +12,7 @@ function checkRadBox () {
    if (document.getElementById("listTeg3").checked) {
       score = score + 1;
    }
-   if (document.getElementById("infoServiceTeg3").checked) {
+   if (document.getElementById("infoServiceTeg4").checked) {
       score = score + 1;
    }
    if (searchName.elements.tebleTeg2.checked && searchName.elements.tebleTeg4.checked && !searchName.elements.tebleTeg1.checked && !searchName.elements.tebleTeg3.checked) {
